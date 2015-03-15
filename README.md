@@ -1,5 +1,5 @@
 # ghc-relinking-avoidance-bug
-Test case showing that GHC 7.8.4 doesn't relink when it should (since library code changed)
+Test case showing that GHC 7.8.4 doesn't relink when it should (since library code changed). For [GHC issue #10161](https://ghc.haskell.org/trac/ghc/ticket/10161)
 
 ## Reproduce
 
